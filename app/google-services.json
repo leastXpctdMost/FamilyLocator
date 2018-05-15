@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "638553074353",
+    "firebase_url": "https://family-locator-796b6.firebaseio.com",
+    "project_id": "family-locator-796b6",
+    "storage_bucket": "family-locator-796b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638553074353:android:0bf24b9205db400f",
+        "android_client_info": {
+          "package_name": "com.fowler.familylocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638553074353-53lajgatkcq6kj5dv230kl7bruhj8ors.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZr8rH0zp6kxhMEnNYPvS-qo-Eet72HNk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

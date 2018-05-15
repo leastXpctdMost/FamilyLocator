@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Family Locator</string>
+    <string name="login">Login</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="register_next">Next</string>
+    <string name="password_next">Next</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="symbolReminder">Rember this icon. As this is your emergency symbol. You will need to select this icon to signal that you need help.</string>
+</resources>
